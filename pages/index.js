@@ -379,7 +379,7 @@ export default function Home() {
         <div>
           <h1 className={styles.title}>Welcome to Crypto Devs ICO!</h1>
           <div className={styles.description}>
-            You can claim or mint Crypto Dev tokens here
+            You can claim or mint Crypto Dev tokens here !
           </div>
           {walletConnected ? (
             <div>
